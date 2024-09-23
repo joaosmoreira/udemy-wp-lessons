@@ -1,6 +1,6 @@
 # ![WordPress Logo](https://raw.githubusercontent.com/edent/SuperTinyIcons/3762d3a4443772462dff37e7861375effa4a0528/images/reference/wordpress.svg) Themes &amp; Plugins - Includes React and Gutenberg dev
 ## WordPress Development Course
-In this WordPress development course, I will learn to create custom themes and plugins, harnessing the full flexibility and power of WordPress. Here are the key topics I’ll cover:
+In this WordPress development course, I will learn to create custom themes and plugins, harnessing WordPress's full flexibility and power. Here are the key topics I’ll cover:
 
 ### What I'll Learn
 
@@ -24,3 +24,7 @@ In this WordPress development course, I will learn to create custom themes and p
 - Web designers and developers looking to enhance their skills.
 - Entrepreneurs interested in creating quality plugins and themes.
 - Students who want to learn best practices for developing plugins and themes.
+
+---
+
+**Note**: All keys, including API keys and others, are visible only because they are not usable outside this local environment with LocalWP. They are specific to this setup and cannot be used elsewhere.
